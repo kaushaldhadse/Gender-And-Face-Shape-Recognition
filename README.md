@@ -12,5 +12,7 @@ The dataset used for training this model had only female images and their face s
 Apart from *scikit-learn*, *Dlib* was also used for facial landmark detection which detects 81 landmarks on the face by using the model in *shape_predictor_81_face_landmarks.dat* which was developed by codeniko and its repository is available on github.
 The code on how this model was trained is in the jupyter notebook *FaceShapeModelTraining.ipynb*
 
+The image below shows the landmarks detected by the model:
 
-![OpenAI Logo](images/openai-logo.png)
+
+![Facial Landmarks](Landmarks.png)
