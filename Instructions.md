@@ -1,6 +1,6 @@
 # Instructions 
 
-To run the project on your device, you only need 4 files: [testing2.ipynb](testing2.ipynb), [shape_predictor_81_face_landmarks.dat](shape_predictor_81_face_landmarks.dat), [GenderModel.p](GenderModel.p) and [FaceShapeModel.p](FaceShapeModel.p)
+To run the project on your device, you only need 4 files: [testing2.ipynb](testing.ipynb), [shape_predictor_81_face_landmarks.dat](shape_predictor_81_face_landmarks.dat), [GenderModel.p](GenderModel.p) and [FaceShapeModel.p](FaceShapeModel.p)
 
 I suggest to download the GitHub repository for shape_predictor_81_face_landmarks.dat from [here](https://github.com/codeniko/shape_predictor_81_face_landmarks) to avoid any errors.
 
