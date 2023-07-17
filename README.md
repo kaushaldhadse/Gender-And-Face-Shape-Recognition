@@ -1,4 +1,4 @@
-# Gender-And-Face-Shape-Predictor
+# Gender-And-Face-Shape-Recognition
 
 This project predicts the gender and face shape of any person by taking a video input from the camera. There are two models trained and implemented for this purpose.
 
